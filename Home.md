@@ -4,7 +4,7 @@ Guías prácticas del grupo de **Biopsia Líquida e Intercepción del Cáncer** 
 
 | Guía | Qué explica |
 |---|---|
-| [[Conda]] | Crear entornos con versiones fijadas y compartirlos con un `environment.yml` |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" alt="Anaconda" width="24">  [[Conda]] | Crear entornos con versiones fijadas y compartirlos con un `environment.yml` |
 | [[Snakemake]] | Escribir y ejecutar flujos de análisis: reglas, configuración, dry-run y errores frecuentes |
 
 ## Cómo usar estas guías
