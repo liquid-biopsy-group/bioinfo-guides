@@ -7,6 +7,12 @@ Guías prácticas del grupo de **Biopsia Líquida e Intercepción del Cáncer** 
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" alt="Anaconda" width="24">  [[Conda]] | Crear entornos con versiones fijadas y compartirlos con un `environment.yml` |
 | [[Snakemake]] | Escribir y ejecutar flujos de análisis: reglas, configuración, dry-run y errores frecuentes |
 
+**Próximamente:**
+
+- Git
+- Slurm
+- IGV
+
 ## Cómo usar estas guías
 
 - **Empieza por [[Conda]]:** Snakemake se instala y se ejecuta con entornos conda.
